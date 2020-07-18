@@ -1,9 +1,9 @@
 /*------------------------------------------------------------------
-Project:  Pato
+Project:  whiteMug
 Version:  
 Last change:  
-Assigned to:  Kevin Nguyen
-Primary use:  Company
+Assigned to:  Ramsheed
+Primary use:  R'world
 -------------------------------------------------------------------*/
 /*------------------------------------------------------------------
 [LAYOUT]
@@ -517,7 +517,7 @@ input[type="date" i] {
 -----------------------------------------------------------
 */
 .logo {
-  height:100px;
+  height:120px;
 }
 
 .logo > a{
